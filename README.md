@@ -1,10 +1,14 @@
+<div align="center">
+
 # Linux Networking Shell Basics
 
-[![Shell checks](https://img.shields.io/github/actions/workflow/status/itkrivoshei/linux-networking-shell-basics/shell.yml?branch=main&style=flat-square&label=shell%20checks&logo=githubactions&logoColor=white)](https://github.com/itkrivoshei/linux-networking-shell-basics/actions/workflows/shell.yml)
-[![Bash](https://img.shields.io/badge/Bash-scripts-4eaa25?style=flat-square&logo=gnubash&logoColor=white)](scripting)
-[![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)](LICENSE)
-
 UNIX/Linux command collection for networking lookups, system inspection, and a few Bash utilities.
+
+[![Shell checks](https://img.shields.io/github/actions/workflow/status/itkrivoshei/linux-networking-shell-basics/shell.yml?branch=main&style=for-the-badge&label=shell%20checks&logo=githubactions&logoColor=white)](https://github.com/itkrivoshei/linux-networking-shell-basics/actions/workflows/shell.yml)
+[![Bash](https://img.shields.io/badge/Bash-scripts-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white)](scripting)
+[![License](https://img.shields.io/github/license/itkrivoshei/linux-networking-shell-basics?style=for-the-badge)](LICENSE)
+
+</div>
 
 ## Repository Areas
 
