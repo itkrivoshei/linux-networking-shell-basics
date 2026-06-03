@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "WARNING: this archived exercise can delete local users."
+echo "WARNING: this exercise can delete local users."
 echo "Set ALLOW_USER_DELETE=1 to continue."
 if [ "${ALLOW_USER_DELETE:-}" != "1" ]; then
 	echo "Blocked by safety guard."
